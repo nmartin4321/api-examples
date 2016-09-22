@@ -1,0 +1,6 @@
+{
+"behaviors": [
+	{ "description": "A behavior description 1", "name": "My Behavior Name 1", "clientId": "XXXX", "behaviorTypeId": "13" },
+	{ "description": "A behavior description 2", "name": "My Behavior Name 2", "clientId": "XXXX", "behaviorTypeId": "13" }
+	]
+}
